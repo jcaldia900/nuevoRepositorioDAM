@@ -1,0 +1,7 @@
+11;El hobbit;15
+55;Padre no hay mas que uno;20
+66;Cuatro bodas y un funeral;60
+99;El padrino;11
+15;Algo pasa con Mary;88
+98;TRABAJO BASURA;2
+77;LA MOMIA;66
